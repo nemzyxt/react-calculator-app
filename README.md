@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Calculator-App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Screenshots
+![scr_shot](https://github.com/nemzyxt/react-calculator-app/blob/main/screenshots/pic1.png?raw=true)
+![scr_shot](https://github.com/nemzyxt/react-calculator-app/blob/main/screenshots/pic2.png?raw=true)
+![scr_shot](https://github.com/nemzyxt/react-calculator-app/blob/main/screenshots/pic3.png?raw=true)
+![scr_shot](https://github.com/nemzyxt/react-calculator-app/blob/main/screenshots/pic4.png?raw=true)
 
 ## Available Scripts
 
